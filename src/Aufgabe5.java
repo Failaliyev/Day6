@@ -1,7 +1,3 @@
-//Mövzu: try-catch (Exception Handling)
-//Məqsəd: İstifadəçi hərf əvəzinə rəqəm daxil etməyə çalışsa, səhvi tut
-//try-catch ilə səhvləri tut
-
 
 import java.util.Scanner;
 
