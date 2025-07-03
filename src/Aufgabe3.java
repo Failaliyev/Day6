@@ -1,7 +1,3 @@
-//Mövzu: boolean tip, metod
-//Məqsəd: Yaş 18 və yuxarıdırsa true, əks halda false
-//boolean qaytaran metodla yaş yoxlaması
-
 
 import java.util.Scanner;
 
