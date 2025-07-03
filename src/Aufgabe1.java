@@ -1,5 +1,3 @@
-//Mövzu: for-each döngüsü
-//Məqsəd: Massivdə olan adları bir-bir çap etmək
 
 public class Aufgabe1 {
 
@@ -7,8 +5,6 @@ public class Aufgabe1 {
         String[ ] namen = {"Anna", "Fail", "Ilkin", "Lukas", "Ivan", "Mehmet"};
 
         System.out.println("Liste der Teilnehmer");
-
-        //Hər bir adı alıb çap edirik
 
         for (String name : namen) {
 
