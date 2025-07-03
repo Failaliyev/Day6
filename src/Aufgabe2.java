@@ -1,6 +1,3 @@
-//Mövzu: String metodları
-//Məqsəd: Adın müəyyən hərflə başlayıb-bitməsini yoxlamaq
-//startsWith() və endsWith() ilə ad yoxlama
 
 import java.util.Scanner;
 
